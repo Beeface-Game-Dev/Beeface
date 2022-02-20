@@ -3,14 +3,28 @@ Unity project
 
 # Setup
 Install Visual Studio 2019
-- Pakcage a
-- Package b
+- maak seker dat VS saam unity kan werk koni onthou of jy die pakckage vir dit saam met VS of Unity download nie.
 - install with game support checked
 
 
-Unity v1.0
-- Package a
-- Package b
+Unity 2019.4.23f1 of nuutste
+{Kan alles kry wat dalk lyk of ons dit gaan gebruik}
+-2D Sprite
+-2D Tilemap Editor 
+-Analytics Library
+-Custom NUnit
+-in App Purchasing
+-Mono Cecil
+-Multiplayer HLAPI
+-Rider Editor
+-Test Framework
+-TextMesh Pro
+-TimeLine
+-Unity Collavorate
+-Unity UI
+-Vidual Studio Code Editor
+-XR Legacy Input Helpers
+-{Alles wat ons kan benodig vir andriod IOS en windows game maak}
 
 
 # Build
